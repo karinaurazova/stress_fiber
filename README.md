@@ -51,7 +51,6 @@ Default values used in simulations:
 - kₙ = [0, 1] (nuclear stiffness)
 
 ## Output
-The script generates plots matching Fig. 5.6 from Taber:
 1. Stretch ratio (λ) vs position (X)
 2. Normalized Cauchy stress (σ/cₐ) vs position (X)
 
